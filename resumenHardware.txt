@@ -1,0 +1,3 @@
+- RAM
+- ROM2
+-Disco Duro HDD
